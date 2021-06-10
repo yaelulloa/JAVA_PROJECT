@@ -1,0 +1,29 @@
+python project:
+- user request from fictitious company
+- it/is manager will get the request
+- it manager respond to user as what needs to be done and timeline
+- it manager inform the it team what needs to be done
+- it team will come up with a plan to solve the problem
+- implement with in promised timeline
+- two kinds of projects:
+-- new development project(not that frequently)
+--- months to complete it
+--- legacy approach - waterfall technique:
+---- get user request/overall design/detail design/programming/testing/
+---- migration/deployment phases
+---- object oriented technique
+---- break down user request into use cases - small pieces
+---- get user request/overall design/detail design/programming/testing/
+---- migration/deployment small phases
+---- users can be productive as each piece gets completed
+-- maintenance project:
+--- less then a month month to complete it
+--- enhancement to existing functionality
+--- operating issues
+---- users are finding it difficult to run the system in production
+----- in our today's project
+----- DEVOPS:
+------analysts/programming/operation/migrating(deploying group)
+------ small enhancements go thru 
+------ analysts/programming/operation/migrating(deploying group)
+------ move it to production
